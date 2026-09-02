@@ -15,3 +15,4 @@ if n < 0:
     print("Factorial is not defined for negative numbers.")
 else:
     print("Factorial of", n, "is", factorial(n))
+#End of the program
